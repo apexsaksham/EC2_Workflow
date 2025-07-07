@@ -5,5 +5,6 @@ variable "ami" {
 
 variable "instance_type" {
     type = string
-  
+                                               # these are variable
+                                               
 }
